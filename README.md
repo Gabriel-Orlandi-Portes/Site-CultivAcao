@@ -1,3 +1,7 @@
+<h1 align="center">
+  💻<br>Portfólio - Gabriel Orlandi Portes
+</h1>****
+
 
 <p align="center">
 <img src="https://github.com/2024-2-NADS2/Projeto7/blob/7c9d2fd27303b964ca0d594634464ae8bb83205d/img/Untitled.png?raw=true" alt="Imagem">
