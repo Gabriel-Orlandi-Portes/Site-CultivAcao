@@ -20,6 +20,9 @@ Este site busca minimizar esses desafios por meio da implementação de hortas u
 O site de agricultura urbana é uma plataforma dedicada a promover o cultivo de alimentos em áreas urbanas, oferecendo recursos e orientações práticas para quem deseja iniciar uma horta em casa, no trabalho ou em espaços comunitários. Ele traz informações sobre técnicas de plantio, manejo sustentável e dicas para aproveitar pequenos espaços, além de conectar pessoas interessadas em transformar suas cidades em ambientes mais verdes e produtivos. O objetivo é incentivar a sustentabilidade, a alimentação saudável e o fortalecimento de comunidades através da agricultura urbana.
 </br>
 
+
+---
+
 ## 📚 Seções
 
 O site é composto por cinco seções:
@@ -30,6 +33,19 @@ O site é composto por cinco seções:
 - **Fale Conosco:** Apresenta todos as maneiras de entrar em contato com o grupo;
 - **Calculadora de rendimento:** A seção diferencial do site, aonde possuímos uma calculadora, aonde você coloca o tamanho do seu terreno, e o que gostaria de plantar, retornando o rendimento esperado;
 
+
+---
+
+## 💼 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+- HTML;
+- CSS;
+- JavaScript;
+- React;
+- Node.js;
+- MySql;
 
 ---
 
