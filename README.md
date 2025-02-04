@@ -20,23 +20,7 @@ Este site busca minimizar esses desafios por meio da implementação de hortas u
 O site de agricultura urbana é uma plataforma dedicada a promover o cultivo de alimentos em áreas urbanas, oferecendo recursos e orientações práticas para quem deseja iniciar uma horta em casa, no trabalho ou em espaços comunitários. Ele traz informações sobre técnicas de plantio, manejo sustentável e dicas para aproveitar pequenos espaços, além de conectar pessoas interessadas em transformar suas cidades em ambientes mais verdes e produtivos. O objetivo é incentivar a sustentabilidade, a alimentação saudável e o fortalecimento de comunidades através da agricultura urbana.
 </br>
 
-## Descrição
 
-<p align="center">
-<img src="https://github.com/2024-2-NADS2/Projeto7/blob/7c9d2fd27303b964ca0d594634464ae8bb83205d/img/Untitled.png?raw=true" alt="Imagem">
-  Game by <a href="https://www.linkedin.com/in/caua-william-967295247/">Caua William Barbieri Brandão</a>, <a href="https://www.linkedin.com/in/gabriel-orlandi-4b5ab22ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Orlandi Portes</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296">Karoline Lemos Avelar</a>, <a href="https://www.linkedin.com/in/matheus-santoro-34b7a7186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Matheus Santoro Carriço Veiga</a>
-</p>
-
-
-
-
-<br><br>
-O site de agricultura urbana é uma plataforma dedicada a promover o cultivo de alimentos em áreas urbanas, oferecendo recursos e orientações práticas para quem deseja iniciar uma horta em casa, no trabalho ou em espaços comunitários. 
-
-Ele traz informações sobre técnicas de plantio, manejo sustentável e dicas para aproveitar pequenos espaços, além de conectar pessoas interessadas em transformar suas cidades em ambientes mais verdes e produtivos. O objetivo é incentivar a sustentabilidade, a alimentação saudável e o fortalecimento de comunidades através da agricultura urbana.
-<br><br>
-
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
