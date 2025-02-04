@@ -1,6 +1,6 @@
 <h1 align="center">
   💻<br>Portfólio - Gabriel Orlandi Portes
-</h1>****
+</h1>
 
 
 <p align="center">
