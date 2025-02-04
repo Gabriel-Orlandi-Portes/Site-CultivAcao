@@ -4,8 +4,6 @@
 
 <p align="center">
 <img src="https://github.com/2024-2-NADS2/Projeto7/blob/7c9d2fd27303b964ca0d594634464ae8bb83205d/img/Untitled.png?raw=true" alt="Imagem">
-  Game by <a href="https://www.linkedin.com/in/caua-william-967295247/">Caua William Barbieri Brandão</a>, <a href="https://www.linkedin.com/in/gabriel-orlandi-4b5ab22ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Orlandi Portes</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296">Karoline Lemos Avelar</a>, <a href="https://www.linkedin.com/in/matheus-santoro-34b7a7186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Matheus Santoro Carriço Veiga</a>
-</p>
 
 
 ## ✏ Introdução
