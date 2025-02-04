@@ -1,14 +1,8 @@
 
 
-<p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
-</p>
-
 # Projeto criado para promover a sustentabilidade e incentivar a agricultura urbana, demonstrando a viabilidade de hortas em pequenos espaços.
 
 ## CGKM
-
-## Integrantes: <a href="https://www.linkedin.com/in/caua-william-967295247/">Caua William Barbieri Brandão</a>, <a href="https://www.linkedin.com/in/gabriel-orlandi-4b5ab22ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gabriel Orlandi Portes</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296">Karoline Lemos Avelar</a>, <a href="https://www.linkedin.com/in/matheus-santoro-34b7a7186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Matheus Santoro Carriço Veiga</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/jbuesso/">Jose Carlos Buesso Junior</a>
 
