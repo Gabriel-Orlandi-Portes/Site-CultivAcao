@@ -12,9 +12,12 @@
 </br>
 <br>
 Por meio de tecnicas agrícolas, que, além do intuito de embelezar locais, fazem com que estes deem retornos aos proprietários, na questão alimentar. Além disso, os Objetivos de Desenvolvimento Sustentável são essenciais em nosso projeto de agricultura urbana para promover a produção local de alimentos e a gestão responsável dos recursos naturais. Os ODS incluídos em nosso projeto são Fome zero e agricultura sustentável (ODS 2) e Consumo e produção responsáveis (ODS 12). 
-Este site busca minimizar esses desafios por meio da implementação de hortas urbanas e sistemas de cultivo sustentável, com o intuito de promover a segurança alimentar e incentivar práticas agrícolas que respeitem o meio ambiente e otimizem o uso de insumos 
-O site de agricultura urbana é uma plataforma dedicada a promover o cultivo de alimentos em áreas urbanas, oferecendo recursos e orientações práticas para quem deseja iniciar uma horta em casa, no trabalho ou em espaços comunitários. 
-Ele traz informações sobre técnicas de plantio, manejo sustentável e dicas para aproveitar pequenos espaços, além de conectar pessoas interessadas em transformar suas cidades em ambientes mais verdes e produtivos. O objetivo é incentivar a sustentabilidade, a alimentação saudável e o fortalecimento de comunidades através da agricultura urbana.
+</br>
+<br>
+Este site busca minimizar esses desafios por meio da implementação de hortas urbanas e sistemas de cultivo sustentável, com o intuito de promover a segurança alimentar e incentivar práticas agrícolas que respeitem o meio ambiente e otimizem o uso de insumos.
+</br>
+<br>
+O site de agricultura urbana é uma plataforma dedicada a promover o cultivo de alimentos em áreas urbanas, oferecendo recursos e orientações práticas para quem deseja iniciar uma horta em casa, no trabalho ou em espaços comunitários. Ele traz informações sobre técnicas de plantio, manejo sustentável e dicas para aproveitar pequenos espaços, além de conectar pessoas interessadas em transformar suas cidades em ambientes mais verdes e produtivos. O objetivo é incentivar a sustentabilidade, a alimentação saudável e o fortalecimento de comunidades através da agricultura urbana.
 </br>
 
 ## Descrição
